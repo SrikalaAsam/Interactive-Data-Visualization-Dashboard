@@ -6,7 +6,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
-## [0.2.0] - 2024-08-28
+## [0.2.0] - 2025-02-24
 ### Added
 - Loading indicators for each chart to provide visual feedback during data fetching.
 - Custom tooltips for all charts, offering detailed information on hover.
@@ -27,7 +27,7 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 ### Fixed
 - Improved error handling in data fetching and chart updating processes.
 
-## [0.1.0] - 2024-08-27
+## [0.1.0] - 2025-02-25
 ### Added
 - Initial project setup with basic HTML, CSS, and JavaScript structure.
 - Three chart types: Line Chart, Bar Chart, and Pie Chart using Chart.js.
